@@ -5,7 +5,7 @@ import os
 import time
 
 # ----------------------------
-# 1. CONFIG
+# 1. CONFIG (secure handling)
 # ----------------------------
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_KEY:
