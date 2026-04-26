@@ -60,7 +60,7 @@ def build_web_html(news):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Realist Ledger | Evening Update</title>
+    <title>The Noetic Brief - by Andreas Mitsis | Evening Update</title>
     <style>
         :root {{
             --bg-color: #121212;
