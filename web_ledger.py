@@ -162,7 +162,7 @@ def build_web_html(news):
     <div class="container">
         <header class="header">
             <div class="title-group">
-                <h1 class="title">The Realist Ledger</h1>
+                <h1 class="title">The Noetic Brief</h1>
                 <div class="edition">Evening Intelligence Update</div>
             </div>
             <div class="date">{now}</div>
