@@ -200,6 +200,6 @@ if __name__ == "__main__":
         with open("index.html", "w", encoding="utf-8") as f:
             f.write(html_content)
 
-        print(get_ledger_html())
+        print(html_content)
     except Exception as e:
         print("ERROR:", e)
