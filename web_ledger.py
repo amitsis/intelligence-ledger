@@ -50,7 +50,13 @@ Constraints: Tone sober, analytical, max 2 sentences per item.
 # 3. Web-Optimized HTML Builder
 # ----------------------------
 def build_web_html(news):
-    now = datetime.now().strftime("%A, %B %d, %Y | %H:%M CEST").upper()
+    # Specify the geographic timezone instead of the offset name
+    tz = ZoneInfo("Europe/Berlin") 
+    
+    # Get current time in that specific zone
+    now_dt = datetime.now(tz)
+    # %Z will dynamically output CET or CEST based on the date
+    now = now_dt.strftime("%A, %B %d, %Y | %H:%M %Z").upper()
 
     def render_section(title, items):
         html = f"<h2>{title}</h2>"
