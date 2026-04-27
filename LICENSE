@@ -1,0 +1,33 @@
+INTELLIGENCE LEDGER PUBLIC LICENSE Version 2.1 (April 2026):
+
+Copyright (C) 2026 Institutional Analytic Group;
+Copyright (C) 2026 Andreas Mitsis.
+
+This License grants you the irrevocable freedoms to run, study,
+modify, and redistribute the intelligence-ledger Software and any
+Covered Work, provided that all distributions (in source or object form)
+include the complete corresponding Source Code or a written offer to
+provide it, retain all copyright notices and this License text, and
+license the entire Covered Work under identical terms without
+additional restrictions; modifications must be clearly documented.
+
+The Software may interface with external services
+(including APIs or hosted models), which are not part of the Covered
+Work, are not conveyed under this License, and remain governed
+exclusively by their own terms; this License grants no rights to access
+or use such services, bypass safeguards, or replicate proprietary
+systems, and any functional dependency must be disclosed in distributions.
+You may remove or replace such dependencies, and interface code must
+remain fully available and unobfuscated. You are solely responsible
+for any data transmitted to external services and for legal
+compliance.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, AND IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY DAMAGES ARISING FROM USE, INABILITY TO USE,
+RELIANCE ON OUTPUTS, OR INTERACTION WITH EXTERNAL SERVICES.
+
+Any violation terminates your rights under this License, subject to reinstatement upon cure. By using, modifying, or distributing the
+Software, you accept these terms; this License shall be interpreted
+to preserve full software freedom while strictly excluding any implied
+rights over external services and prohibiting circumvention of their protections.
