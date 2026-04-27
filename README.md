@@ -28,8 +28,7 @@ briefing.
 
 
 Copyright (c) 2026 Institutional Analytic Group
-
-Copyright (c) 2026 [Andreas Mitsis|github/amitsis]
+Copyright (c) 2026 [Andreas Mitsis](https://github.com/amitsis)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this "Noetic Brief" intelligence engine and associated documentation files, 
