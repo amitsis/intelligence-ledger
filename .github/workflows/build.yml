@@ -2,7 +2,7 @@ name: Build Ledger
 
 on:
   schedule:
-    - cron: "0 17 * * *"    # every evening at 19:00 CEST
+    - cron: "0 17 * * *"    # every evening
   workflow_dispatch:        # manual trigger
 
 jobs:
